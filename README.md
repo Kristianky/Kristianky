@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kristianky 👋
 
-<!--
-**Kristianky/Kristianky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an industrial maintenance technician at MOBIS Slovakia with three years of hands-on experience in PLC programming.
 
-Here are some ideas to get you started:
+## Industrial Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PLC programming and troubleshooting with Siemens TIA Portal and Mitsubishi GX Works
+- Experience with sensors, KEYENCE machine vision systems, servo motors, FANUC robots, PROFINET, CC-Link IE, and Modbus.
+
+## Certifications
+
+- Mitsubishi PLC certificate
+- FANUC basic certificate
+- Electrical qualification, §22 (Slovakia)
+
+## Currently Learning
+
+- C++ and Qt desktop application development
+- STM32 and embedded systems
+- Python and databases
+- Software development and computer networking
