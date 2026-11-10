@@ -1,4 +1,4 @@
-# Hi, I'm Kristianky 👋
+# Hi, I'm Kristan👋
 
 I'm an industrial maintenance technician at MOBIS Slovakia with three years of hands-on experience in PLC programming.
 
